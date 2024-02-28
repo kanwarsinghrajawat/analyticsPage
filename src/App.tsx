@@ -1,5 +1,5 @@
 import ChartPage from "./pages/ChartPage";
-import Header from "./pages/Header";
+import Header from "./components/Header";
 import { Provider } from "react-redux";
 import store from "./store";
 import Stats from "./components/Stats";
